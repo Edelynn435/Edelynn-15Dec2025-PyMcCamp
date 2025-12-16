@@ -102,7 +102,6 @@
 
 ########################################################################
 # Additional exercises:
-for i in range(3):
-    num1 = random.randint
-    num2 = random.randint 
-    
+# for i in range(3):
+#     num1 = random.randint
+#     num2 = random.randint 
