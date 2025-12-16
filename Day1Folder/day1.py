@@ -129,5 +129,5 @@
 
 name = Steve
 title = King 
-print("I am " + title + name)
+print("I am " + name)
 print
