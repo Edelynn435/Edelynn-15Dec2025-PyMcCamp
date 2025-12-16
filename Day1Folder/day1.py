@@ -127,4 +127,6 @@
 #     num1 = random.randint
 #     num2 = random.randint 
 
+name = Steve
+title = King 
 
