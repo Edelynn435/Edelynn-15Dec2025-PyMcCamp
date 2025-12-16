@@ -14,7 +14,7 @@ for i in range(5):
     print(i)
 
 for i in "Sabrina Carpenter":
-    print
+    print(i)
 
 ########################################################################
 # Task 3:
