@@ -103,6 +103,7 @@ def addition(num1, num2):
 addition(20,26)
 
 
+
 ########################################################################
 # Additional exercises:
 # for i in range(3):
