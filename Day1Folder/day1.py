@@ -103,4 +103,4 @@
 ########################################################################
 # Additional exercises:
 for i in range(3):
-    
+    num1 = random.randint
