@@ -98,31 +98,33 @@
 ########################################################################
 # Task 7:
 #addition
-def addition(num1, num2):
-    print(num1 + num2)
+# def addition(num1, num2):
+#     print(num1 + num2)
     
-addition(20, 26)
+# addition(20, 26)
 
-#multiplication 
-def multiplication(num1, num2):
-    print(num1 * num2)
+# #multiplication 
+# def multiplication(num1, num2):
+#     print(num1 * num2)
 
-multiplication(20, 26)
+# multiplication(20, 26)
 
-#substraction
-def substraction(num1, num2):
-    print(num1 - num2)
+# #substraction
+# def substraction(num1, num2):
+#     print(num1 - num2)
 
-substraction(20, 26)
+# substraction(20, 26)
 
-#division
-def division(num1, num2):
-    print(num1 / num2)
+# #division
+# def division(num1, num2):
+#     print(num1 / num2)
 
-division(20, 26)
+# division(20, 26)
 
 ########################################################################
 # Additional exercises:
 # for i in range(3):
 #     num1 = random.randint
 #     num2 = random.randint 
+
+
