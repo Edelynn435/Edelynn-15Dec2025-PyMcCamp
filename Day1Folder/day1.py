@@ -111,7 +111,7 @@ multiplication(20, 26)
 
 #substraction
 def substraction(num1, num2):
-    print
+    print(num1, num2)
 
 ########################################################################
 # Additional exercises:
