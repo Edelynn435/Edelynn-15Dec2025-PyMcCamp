@@ -113,6 +113,8 @@ multiplication(20, 26)
 def substraction(num1, num2):
     print(num1, num2)
 
+substra
+
 ########################################################################
 # Additional exercises:
 # for i in range(3):
