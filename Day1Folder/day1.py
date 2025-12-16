@@ -105,7 +105,7 @@ addition(20,26)
 
 #multiplication 
 def multiplication(num1, num2):
-    
+    print(num1 * num1)
 
 ########################################################################
 # Additional exercises:
