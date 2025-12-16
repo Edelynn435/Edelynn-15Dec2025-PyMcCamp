@@ -4,3 +4,10 @@
 
 
 ################## On Chat Commands Section #####################
+def tl():
+    agent.turn(LEFT)
+player.on_chat("tl", tl)
+
+def tr(): 
+    agent.turn(RIGHT)
+player.on_chat("tr", tr)
