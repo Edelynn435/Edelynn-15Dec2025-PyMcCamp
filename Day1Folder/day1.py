@@ -127,7 +127,7 @@
 #     num1 = random.randint
 #     num2 = random.randint 
 
-name = Steve
-title = King 
-print("I am " + name)
-print("You shall know me as " + title + name)
+# name = Steve
+# title = King 
+# print("I am " + name)
+# print("You shall know me as " + title + name)
