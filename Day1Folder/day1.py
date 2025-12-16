@@ -32,7 +32,7 @@
 
 
 ########################################################################
-# ask 4:
+# Task 4:
 # var1 = 20
 # var2 = 26
 # var3 = (var1) + (var2)
@@ -104,3 +104,4 @@
 # Additional exercises:
 for i in range(3):
     num1 = random.randint
+    num2 = ran
