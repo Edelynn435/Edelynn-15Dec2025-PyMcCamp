@@ -16,7 +16,9 @@
 # for i in "Sabrina Carpenter":
 #     print(i)
 
-name = 
+name = "EDELYNN"
+for i in name: 
+    print
 
 
 ########################################################################
