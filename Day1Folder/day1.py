@@ -6,6 +6,8 @@
 # print("I am 14 years old")
 # print("If I have $2000, I would travel to Korea")
 
+for i in range(10):
+    print("3")
 
 ########################################################################
 # Task 1:
@@ -67,16 +69,31 @@
 ########################################################################
 # Task 5:
 
-name = "Edelynn"
-food = "noodles"
-print("My name is " + name)
-print("I like to eat " + food)
+# name = "Edelynn"
+# food = "noodles"
+# print("My name is " + name)
+# print("I like to eat " + food)
+
+# def greetings(): 
+#     print("hello")
+#     print("My name is Edelynn")
+#     print("I love to draw")
+
+# greetings() # call a function
+# greetings() # call a function
+
+
 
 
 ########################################################################
 # Task 6:
 
+# def intro(name): 
+#     print("Nice to meet you, " + name)
+#     print(name)
 
+# intro("Amy")
+# intro("Chris")
 
 ########################################################################
 # Task 7:
