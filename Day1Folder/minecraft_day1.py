@@ -11,3 +11,7 @@ player.on_chat("tl", tl)
 def tr(): 
     agent.turn(RIGHT)
 player.on_chat("tr", tr)
+
+def teleport():
+    agent.teleport_to_player()
+player.on_chat("come", teleport)
