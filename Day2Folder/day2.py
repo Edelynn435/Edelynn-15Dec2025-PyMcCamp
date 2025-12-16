@@ -13,7 +13,8 @@
 # for i in range(5):
 #     print(i)
 
-/
+for i in "Sabrina Carpenter":
+    print(i)
 
 
 ########################################################################
