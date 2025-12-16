@@ -113,7 +113,8 @@ multiplication(20, 26)
 def substraction(num1, num2):
     print(num1 - num2)
 
-substraction(num1,)
+substraction(20, 26)
+
 #division
 def division(num1, num2):
     print(num1, num2)
