@@ -116,7 +116,10 @@ def substraction(num1, num2):
 substraction(20, 26)
 
 #division
+def substraction(num1, num2):
+    print(num1, num2)
 
+substraction(20, 26)
 
 ########################################################################
 # Additional exercises:
