@@ -16,12 +16,13 @@
 # for i in "Sabrina Carpenter":
 #     print(i)
 
-name = "EDELYNN"
-for i in name: 
-    print("Give me a " + i + "!")
+# name = "EDELYNN"
+# for i in name: 
+#     print("Give me a " + i + "!")
 
-print("Who is the best?")
-print(name + "!!!")
+# print("Who is the best?")
+# print(name + "!!!")
+
 
 
 ########################################################################
