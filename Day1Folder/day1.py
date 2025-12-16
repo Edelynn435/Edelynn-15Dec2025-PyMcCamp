@@ -6,8 +6,8 @@
 # print("I am 14 years old")
 # print("If I have $2000, I would travel to Korea")
 
-for i in range(10):
-    print("3")
+# for i in range(10):
+#     print("3")
 
 ########################################################################
 # Task 1:
