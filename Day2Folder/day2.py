@@ -18,7 +18,8 @@
 
 name = "EDELYNN"
 for i in name: 
-    print("Give me a " + I )
+    print("Give me a " + i + "!")
+    
 
 
 ########################################################################
