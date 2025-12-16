@@ -103,7 +103,9 @@ def addition(num1, num2):
     
 addition(20,26)
 
-#m
+#multiplication 
+def multiplication(num1, num2):
+    
 
 ########################################################################
 # Additional exercises:
