@@ -104,4 +104,5 @@
 # Additional exercises:
 for i in range(3):
     num1 = random.randint
-    num2 = ran
+    num2 = random.randint 
+    
