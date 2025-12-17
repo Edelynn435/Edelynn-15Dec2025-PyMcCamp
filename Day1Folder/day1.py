@@ -133,4 +133,4 @@
 # print("You shall know me as " + title + name)
 
 for i in range(3):
-    num1 = random
+    num1 = random.randint(1,100)
