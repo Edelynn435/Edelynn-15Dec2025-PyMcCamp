@@ -136,5 +136,6 @@ for i in range(3):
     num1 = random.randint(10,30)
     num2 = random.randint(10,30)
 
-    answer = input(f "What is {num1} + {num2}?")
+    answer = input(f"What is {num1} + {num2}: ")
+    if int(answer) == 
     
