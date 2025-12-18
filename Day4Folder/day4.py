@@ -5,9 +5,9 @@
 ########################################################################
 # Task 1:
 import random
-
-num1 = random.randint(1, 9999)
-print(num1)
+for i in range(10): 
+    num1 = random.randint(1, 9999)
+    print(num1)
 
 
     
