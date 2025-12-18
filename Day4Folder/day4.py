@@ -15,7 +15,9 @@
 
 ########################################################################
 # Task 2:
-question = "What has a head, a tail"
+question = "What has a head, tail but no body?"
+hidden_answer = "A coin"
+
 
 
 ########################################################################
