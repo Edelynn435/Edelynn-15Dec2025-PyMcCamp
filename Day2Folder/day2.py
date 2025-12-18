@@ -66,4 +66,4 @@
 # Additional exercises
 name = Edelynn 
 age = 14
-print()
+print(f"I am {name}")
