@@ -43,7 +43,7 @@ num1 = 20
 num2 = 26
 if num1 == num2: 
     print("CORRECT")
-else num1 != num2:
+else:
     print("incorrect")
 
 
