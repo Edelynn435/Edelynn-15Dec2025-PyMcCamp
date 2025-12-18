@@ -64,9 +64,10 @@
 
 ########################################################################
 # Additional exercises
-#
+# f string 
 name = "Edelynn" 
 age = 14
 print(f"I am {name} and I am {age} years old")
+
 
 
