@@ -140,5 +140,6 @@ for i in range(3):
     if int(answer) == int(num1) + int(num2):
         print("CORRECT")
     else:
-        print
+        print("INCORRECT")
+        
     
