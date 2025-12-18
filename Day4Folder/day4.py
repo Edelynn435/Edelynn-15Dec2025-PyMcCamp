@@ -18,7 +18,8 @@
 question = "What has a head, tail but no body?"
 hidden_answer = "coin"
 reply = ""
-
+while reply != hidden_answer:
+    reply = input(question)
 
 
 
