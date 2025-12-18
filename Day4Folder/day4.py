@@ -8,7 +8,7 @@ import random
 
 num1 = random.randint(1, 9999)
 for i in range(10):
-    print()
+    print(num1)
 
 
     
