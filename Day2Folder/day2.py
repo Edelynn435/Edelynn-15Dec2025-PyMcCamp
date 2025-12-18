@@ -39,12 +39,12 @@
 # for i in range(2, 100, 2):
 #     print(i + )
 
-num1 = 20 
-num2 = 26
-if num1 == num2: 
-    print("CORRECT")
-else:
-    print("incorrect")
+# num1 = 20 
+# num2 = 26
+# if num1 == num2: 
+#     print("CORRECT")
+# else:
+#     print("incorrect")
 
 
 ########################################################################
