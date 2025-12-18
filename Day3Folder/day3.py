@@ -77,14 +77,14 @@ if is_correct == False:
 
 ########################################################################
 # Additional exercises:
-import random
+# import random
 
-score = 0
+# score = 0
 
-for i in range(3):
-    num1 = random.randint(10, 30)
-    num2 = random.randint(10, 30)
-input(f"What is {num1} + {num2}?")
-if 
+# for i in range(3):
+#     num1 = random.randint(10, 30)
+#     num2 = random.randint(10, 30)
+# input(f"What is {num1} + {num2}?")
+# if 
 
           
