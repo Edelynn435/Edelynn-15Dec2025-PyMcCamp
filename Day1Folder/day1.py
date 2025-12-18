@@ -131,7 +131,7 @@
 # title = King 
 # print("I am " + name)
 # print("You shall know me as " + title + name)
-
+import random
 for i in range(3):
     num1 = random.randint(10,30)
     num2 = random.randint(10,30)
@@ -141,5 +141,5 @@ for i in range(3):
         print("CORRECT")
     else:
         print("INCORRECT")
-        
+
     
