@@ -140,6 +140,7 @@ for i in range(3):
     answer = input(f"What is {num1} + {num2}: ")
     if int(answer) == int(num1) + int(num2):
         print("CORRECT")
+        score = score+1
     else:
         print("INCORRECT")
 
