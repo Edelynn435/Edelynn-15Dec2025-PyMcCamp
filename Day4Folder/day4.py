@@ -23,7 +23,7 @@ while reply != hidden_answer:
     if reply == hidden_answer:
         print("CORRECT")
     else:
-        
+        print("INCORRECT")
 
 
 ########################################################################
