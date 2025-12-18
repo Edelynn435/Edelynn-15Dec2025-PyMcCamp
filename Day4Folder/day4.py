@@ -4,10 +4,10 @@
 
 ########################################################################
 # Task 1:
-import random
-for i in range(10): 
-    num1 = random.randint(1, 9999)
-    print(num1)
+# import random
+# for i in range(10): 
+#     num1 = random.randint(1, 9999)
+#     print(num1)
 
 
     
