@@ -132,7 +132,7 @@
 # print("I am " + name)
 # print("You shall know me as " + title + name)
 import random
-score == 0 
+score = 0  
 for i in range(3):
     num1 = random.randint(10,30)
     num2 = random.randint(10,30)
