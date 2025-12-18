@@ -144,6 +144,6 @@ for i in range(3):
     else:
         print("INCORRECT")
 
-print(score/3)
+print(score/3*100)
 
     
